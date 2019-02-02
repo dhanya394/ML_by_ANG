@@ -1,3 +1,3 @@
-# ML_by_ANG
+# Machine Learning Algorithms - Implementation in Python
 
 Machine Learning Course by Andrew NG implemented in Python.
